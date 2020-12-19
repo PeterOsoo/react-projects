@@ -1,2 +1,2 @@
 # react-projects
-Concepts in React Jsb
+Concepts in React Js
